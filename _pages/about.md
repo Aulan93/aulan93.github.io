@@ -29,7 +29,3 @@ I am a PhD student working at the intersection of quantum computing, quantum top
 My research interests include quantum topological phases of matter, quantum machine learning, quantum error correction, optimization algorithms, and machine learning methods for scientific computing.
 
 I am also interested in building reproducible research code and using GitHub to share academic projects, notebooks, and documentation.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
