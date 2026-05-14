@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: membero of quantum algebra'group at AIMS Ghana
+description: member of quantum algebra'group at AIMS Ghana
 nav: true
 nav_order: 7
 
