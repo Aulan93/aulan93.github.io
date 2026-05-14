@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "membero of quantum algebra&#39;group at AIMS Ghana",
+          description: "member of quantum algebra&#39;group at AIMS Ghana",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
